@@ -1,0 +1,8 @@
+[package]
+name = "upa"
+description = "Macro that removes the hassle of creating long pointer chains"
+version = "0.1.0"
+edition = "2021"
+authors = ["ItsEthra"]
+repository = "https://github.com/ItsEthra/upa"
+license = "MIT"
